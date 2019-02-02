@@ -4,7 +4,7 @@
 
 
 
-  -	Başlamak için (https://github.com/okudan/crypt) adresinden **Kilit.cpp** dosyasını bilgisayarınıza indirin.
+  -	Başlamak için https://github.com/okudan/crypt adresinden **Kilit.cpp** dosyasını bilgisayarınıza indirin.
   -	Bir **C++ Compiler** ’ı indirin. (Mac için online C++ Compiler'ı kullanabilirsiniz)
 	- ***[Code:Blocks](http://www.codeblocks.org/downloads/26)***
   -	Kilit.cpp dosyasını indirdiğiniz program ile açın. **‘Build and run’** butonuna basarak dosyanın hatasız bir şekilde çalıştığından emin olun.
