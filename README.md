@@ -18,11 +18,11 @@
 	Gfkmn`Vpqmc/^Thgqfxj^dn{cvfvmvy`hdho^udcqjjmds-`^`^Pmvlvyedlh`gbeu```scvhon`hmd`bbkjrn`z``abrm`z`d`hh{^Ct`rfafomd``mlbmŰ{`^hdsdldo^tdzkfqjm`kjrudth`htsf^cts`e`"^`^`0``edu^Bqetjmp^VMP^2^bcfs`lbuj^ltdtl^tdsup^2^bcfs`GD,TQ13`tmss`tnohl^tdorpq`1tds^u`od`cjrj,ehth`cjrj,fqldl^ktnofq`^`^`rpm`nm`s`l^jkfqmdzdo^edsrmdscf^pxvm`hdho^ltmkbmn`oh{^hdsdldddl^pkbm`rjesd`lblq08^ehs-`^mtuefm`ffqfjuhhh`yblbm`avkbajkfbffjmjy`ajq`xfqf^l`zcfcjm/^N`z`eds^pkn`e`o^brm`"
 	```
 	
-  -	Kilit.cpp dosyasında girdiğiniz metnin her karakterine tek tek işlem yapabilecek bir kod bulunmaktadır. Bu kodun nasıl çalıştığını anlamak için içerisine 
+  -	Kilit.cpp dosyasında girdiğiniz metnin her karakterine tek tek işlem yapabilecek bir kod bulunmaktadır. Bu kodun nasıl çalıştığını anlamak için 
 	```
-	metin[i]+=5;
+	metin[i]+=0;
 	```
-	yazarak **‘Build and run’** butonuna basın ve girdiğiniz metnin nasıl değiştiğini gözlemleyin. Değişimi daha iyi kavramak için yazdığınız kodu değiştirebilirsiniz.
+	kısmında 0 yerine başka bir sayı yazarak **‘Build and run’** butonuna basın ve girdiğiniz metnin nasıl değiştiğini gözlemleyin. Değişimi daha iyi kavramak için sayıyı birkaç defa değiştirebilirsiniz.
   -	Şifreyi çözmenize yardımcı olmak üzere sizin için bazı şeyler önceden çözülmüş durumdadır. Basit bir şifreleme tekniği olan **sezar şifreleme** tekniğinin tek ve çift sıradaki karakterler için ayrı ayrı kullanıldığı; ayrıca ``` Gfkmn`Vpqmc ``` kısmının programlama dillerine başlanırken genelde ilk yazılan programın çıktısı olduğu biliniyor. Bu kısım üzerinde yoğunlaşılarak tekler ve çiftlere doğrudan eklenip çıkarılacak sayıları bulmak için deneme yanılma yöntemi kullanabileceğiniz bir program yazın.
 	- (Input olarak ``` Gfkmn`Vpqmc ``` yazarak tek ve çift indisli karakterleri değiştiren bir kod yazın ve değişimi (+) ve (-) değerler için kodu değiştirerek deneyin. Tekleri ve çiftleri ayırmak için mod alma işlemi kullanabilirsiniz.)
   -	Yazdığınız program şifreyi doğru şekilde kırıyorsa büyük metni de çözün. Ardından programı kaydederek GitHub’ınıza pushlayın ve linkini mail atın.
